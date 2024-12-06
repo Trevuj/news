@@ -1,0 +1,54 @@
+
+
+.latest-popular .nav-tabs, .latest-popular .nav-tabs button{
+    width: 100%;
+    color:green;
+}
+.latest-popular .nav-item{
+    width: 50%;
+}
+.latest-popular .nav-tabs button.active{
+    border-bottom: 2px solid green;
+    color:green;
+}
+.heading{
+    font-weight: bold;
+}
+.heading:hover{
+    color:red;
+    cursor:pointer;
+}
+.fa-house fa-fade{
+    size: 15px;
+}
+footer {
+    clear: both;
+}
+
+footer > div {
+    float: left;
+    width: 33.33%;
+    box-sizing: border-box;
+    padding: 15px;
+    padding: 5px;
+    height: 350px;
+    color: black;
+}
+.footer5 {
+    background-color: rgb(3, 100, 3);
+}
+.footer5 h6{
+    text-align: center;
+}
+.footer1{
+    background-color: silver;
+}
+.footer2{
+    text-align: center;
+    
+    background-color: silver;
+}
+.footer3{
+    text-align: center;
+    background-color: silver;
+}
